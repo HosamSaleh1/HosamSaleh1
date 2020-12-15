@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Hosam Saleh,
 
-Backend Engineer from Al Fayoum, Egypt.
-Full Stack Engineer,
+Full Stack Engineer, from Al Fayoum, Egypt.
 
 - 🔭 I’m currently Using Python for Development and Scripting ...
 spider_web Building the web using Flask ...
