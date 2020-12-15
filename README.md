@@ -9,8 +9,7 @@ ship Shipping softwares in Docker on Prem and on the Cloud ..
 - 🤔 I’m Learning competitive programming / problem solving / Encryption ...
 - 💬 Ask me about Building the web: I use Flask ...
 
-I love to work with apple, and play with Linux penguin.
-thinking I'am interested in Web Development, Building devtools, Automation, DevOps, and Cloud Technologies.
+I love to work with apple, and play with Linux penguin, thinking I'am interested in Web Development, Building devtools, Automation, DevOps, and Cloud Technologies.
 
 Languages and Tools:
 
