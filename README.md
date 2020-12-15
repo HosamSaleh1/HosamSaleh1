@@ -1,8 +1,8 @@
 ### Hi 👋 I'm Hosam Saleh,
 
 Full Stack Engineer, from Al Fayoum, Egypt.
-man_artist Crafting software
-bug Hunting bugs
+* Crafting software
+* Hunting bugs
 
 - 🔭 I’m currently Using Python for Development and Scripting ...
 - 🌱 I’m currently Summons Web Scraping for data Science ...
