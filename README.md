@@ -15,8 +15,8 @@ I love to work with apple, and play with Linux penguin, thinking I'am interested
 
 Languages and Tools:
 
-Python, Flask, Git, PostgreSQL, SQLite, HTML, CSS, Javascript, Docker, Heroku and Auth0.
-
+Python, Flask, Git, PostgreSQL, SQLite, HTML, CSS, Javascript, WordPress, Docker, Heroku and Auth0.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 - 📫 How to reach me: ...
 Connect with me:mailbox Please email via mr.hosamsaleh@yahoo.com.
 
