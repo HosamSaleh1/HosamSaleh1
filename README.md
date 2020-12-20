@@ -1,3 +1,7 @@
+<style>
+h1 {text-align: center;}
+h2 {text-align: center;}
+</style>
 ### <h1><center>Hi 👋 I'm Hosam Saleh</center></h1>
 
 <h2>Full Stack Engineer, from Al Fayoum, Egypt.</h2>
