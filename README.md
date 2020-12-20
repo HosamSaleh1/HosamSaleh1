@@ -1,14 +1,14 @@
 ### <h1><center>Hi 👋 I'm Hosam Saleh</center></h1>
 
 <h2>Full Stack Engineer, from Al Fayoum, Egypt.</h2>
-* Crafting software
-* Hunting bugs
-- 🔭 I’m currently Using Python for Development and Scripting ...
-- 🌱 I’m currently Summons Web Scraping for data Science ...
-- 👯 All of my projects are available at <a href="https://github.com/HosamSaleh1?tab=repositories" alt="My Repos">My Repository</a> ...
-ship Shipping softwares in Docker on Prem and on the Cloud ..
-- 🤔 I’m Learning competitive programming / problem solving / Encryption ...
-- 💬 Ask me about Building the web: I use Flask ...
+<strong>* Crafting software<br>
+* Hunting bugs<br></strong>
+- 🔭 I’m currently Using Python for Development and Scripting ...<br>
+- 🌱 I’m currently Summons Web Scraping for data Science ...<br>
+- 👯 All of my projects are available at <a href="https://github.com/HosamSaleh1?tab=repositories" alt="My Repos">My Repository</a> ...<br>
+ship Shipping softwares in Docker on Prem and on the Cloud ..<br>
+- 🤔 I’m Learning competitive programming / problem solving / Encryption ...<br>
+- 💬 Ask me about Building the web: I use Flask ...<br>
 
 I love to work with apple, and play with Linux penguin, thinking I'am interested in Web Development, Building devtools, Automation, DevOps, and Cloud Technologies.
 
