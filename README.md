@@ -23,6 +23,6 @@ Python, Flask, Git, PostgreSQL, SQLite, HTML, CSS, Javascript, WordPress, Docker
 <h3>Connect with me:</h3>
 Please email via <a href="mailto:mr.hosamsaleh@yahoo.com" alt="Hosam Saleh @ Yahoo.Com">mr.hosamsaleh@yahoo.com.</a><br>
 
-<a href="https://www.linkedin.com/in/hosamsaleh/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/hosamsaleh/"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn"></a>
 
 - ⚡ Fun fact: Coding is what makes life tasty ...
