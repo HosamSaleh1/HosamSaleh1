@@ -1,10 +1,6 @@
-<style>
-h1 {text-align: center;}
-h2 {text-align: center;}
-</style>
-### <h1><center>Hi 👋 I'm Hosam Saleh</center></h1>
+### <h1 style="text-align:center">Hi 👋 I'm Hosam Saleh</h1>
 
-<h2>Full Stack Engineer, from Al Fayoum, Egypt.</h2>
+<h2 style="text-align:center">Full Stack Engineer, from Al Fayoum, Egypt.</h2>
 <strong>* Crafting software<br>
 * Hunting bugs<br></strong>
 - 🔭 I’m currently Using Python for Development and Scripting ...<br>
