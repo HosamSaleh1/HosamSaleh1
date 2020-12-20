@@ -1,6 +1,5 @@
-### <h1 style="text-align:center">Hi 👋 I'm Hosam Saleh</h1>
-
-<h2 style="text-align:center">Full Stack Engineer, from Al Fayoum, Egypt.</h2>
+### <h1>Hi 👋 I'm Hosam Saleh</h1>
+<h2>Full Stack Engineer, from Al Fayoum, Egypt.</h2>
 <strong>* Crafting software<br>
 * Hunting bugs<br></strong>
 - 🔭 I’m currently Using Python for Development and Scripting ...<br>
